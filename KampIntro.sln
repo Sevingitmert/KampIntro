@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro", "KampIntro\KampIntro.csproj", "{A642341C-CAF1-4D54-9592-94559E4F3B2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro", "KampIntro\KampIntro.csproj", "{A642341C-CAF1-4D54-9592-94559E4F3B2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework3", "Homework3\Homework3.csproj", "{B90245E8-DCC6-499C-B15A-DEDDBD9113BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework3", "Homework3\Homework3.csproj", "{B90245E8-DCC6-499C-B15A-DEDDBD9113BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{56532245-3ABF-474B-A9E3-8C2FAE2128E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B90245E8-DCC6-499C-B15A-DEDDBD9113BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B90245E8-DCC6-499C-B15A-DEDDBD9113BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B90245E8-DCC6-499C-B15A-DEDDBD9113BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56532245-3ABF-474B-A9E3-8C2FAE2128E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56532245-3ABF-474B-A9E3-8C2FAE2128E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56532245-3ABF-474B-A9E3-8C2FAE2128E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56532245-3ABF-474B-A9E3-8C2FAE2128E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
