@@ -8,7 +8,20 @@ namespace GenericsIntro
         {
             MyList<string> names = new MyList<string>();
 
+
             names.Add("Mert");
+            names.Add("efe");
+
+            Console.WriteLine(names.Length);
+          
+
+            foreach (var name in names.Items)
+            {
+                Console.WriteLine(name);
+            }
+            {
+                
+            }
         }
     }
 }
